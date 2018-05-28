@@ -1,0 +1,6 @@
+Producer 5, time = current time, producing data item #1, item value=1804289383
+Consumer 5, time = current time, consuming data item with value=1804289383
+Producer 5, time = current time, producing data item #2, item value=846930886
+Producer 5, time = current time, producing data item #3, item value=1681692777
+Consumer 5, time = current time, consuming data item with value=846930886
+Consumer 5, time = current time, consuming data item with value=1681692777

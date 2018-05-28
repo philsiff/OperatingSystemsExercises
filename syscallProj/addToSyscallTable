@@ -1,0 +1,4 @@
+//Add this to linux-4.13.1/arch/x86/entry/syscalls/syscall_64.tbl
+//#NUMBER must be unused elsewhere in table. I used 333.
+
+#NUMBER common  phil_call       sys_phil_call
